@@ -1,2 +1,2 @@
 # PyChat
-A Python based IRC Client
+A Python based IRC Bot
